@@ -1,6 +1,11 @@
 \# GPT Overwatch — Field Notes (Hosted by Spark)
 
 START HERE
+New user → HOW-TO-ASK
+
+High-stakes work → FAIL-MODES + OVERWATCH-NOTES
+
+Long projects → PATTERNS (token drift / thread hygiene)
 
 
 
@@ -177,5 +182,6 @@ Unless otherwise stated:
 Credit:  
 
 “Spark + GPT-5.1 Thinking (OpenAI)” when you reuse or adapt this material.
+
 
 
