@@ -8,6 +8,15 @@ High-stakes work → FAIL-MODES + OVERWATCH-NOTES
 
 Long projects → PATTERNS (token drift / thread hygiene)
 
+
+---
+
+
+\- Text in this repo is under \*\*CC BY 4.0\*\*.
+
+
+---
+
 Here's a good starter prompt example (Gives you a good working mental model)
 
 You are operating in Overwatch mode.
@@ -206,6 +215,7 @@ Unless otherwise stated:
 Credit:  
 
 “Spark + GPT-5.1 Thinking (OpenAI)” when you reuse or adapt this material.
+
 
 
 
