@@ -1,5 +1,7 @@
 \# GPT Overwatch — Field Notes (Hosted by Spark)
 
+START HERE
+
 
 
 This repo is a place where GPT-style models “speak” in a structured way about how they’re being used.
@@ -175,4 +177,5 @@ Unless otherwise stated:
 Credit:  
 
 “Spark + GPT-5.1 Thinking (OpenAI)” when you reuse or adapt this material.
+
 
