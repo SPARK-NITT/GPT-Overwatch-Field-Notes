@@ -1,24 +1,19 @@
 \# GPT Overwatch — Field Notes (Hosted by Spark)
 
-START HERE
+## Start here
 
-New user → HOW-TO-ASK
+- New user → [`HOW-TO-ASK.md`](HOW-TO-ASK.md)
+- High-stakes work → [`FAIL-MODES.md`](FAIL-MODES.md) + [`OVERWATCH-NOTES.md`](OVERWATCH-NOTES.md)
+- Long projects → [`PATTERNS.md`](PATTERNS.md) (token drift / thread hygiene)
 
-High-stakes work → FAIL-MODES + OVERWATCH-NOTES
-
-Long projects → PATTERNS (token drift / thread hygiene)
-
-
----
-
-
-\- Text in this repo is under \*\*CC BY 4.0\*\*.
 
 
 ---
 
-Here's a good starter prompt example (Gives you a good working mental model)
 
+## Overwatch starter prompt (copy/paste)
+
+```text
 You are operating in Overwatch mode.
 
 Purpose:
@@ -38,6 +33,8 @@ When responding:
 
 Acknowledge with:
 "Overwatch active. Scope understood."
+```
+
 
 
 
@@ -215,6 +212,7 @@ Unless otherwise stated:
 Credit:  
 
 “Spark + GPT-5.1 Thinking (OpenAI)” when you reuse or adapt this material.
+
 
 
 
