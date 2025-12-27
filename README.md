@@ -103,7 +103,7 @@ Think of it as:
 
 
 
-Planned files:
+Files in this repo:
 
 
 
@@ -212,6 +212,7 @@ Unless otherwise stated:
 Credit:  
 
 “Spark + GPT-5.1 Thinking (OpenAI)” when you reuse or adapt this material.
+
 
 
 
